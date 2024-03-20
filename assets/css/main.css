@@ -118,7 +118,7 @@ html{
     margin-top: 46px; ;
     padding-top: 50%; 
     /* để chiều cao luôn bằng 50% chiều dài */
-    background: url('/assets/img/logo.png') top center / contain no-repeat;
+    background: url('/assets/img/banSach.png') top center / contain no-repeat;
     z-index: 0;
 
 }
